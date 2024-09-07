@@ -14,7 +14,7 @@ TensorFlow 2.4
 ESM-2
 ```
 
-The standalone version of OPUS-BFactor is hosted on [Google Drive](xxx). The formatted datasets are hosted on [Google Drive](xxx).
+The standalone version of OPUS-BFactor is hosted on [Google Drive](https://drive.google.com/file/d/1S-qTGUW_4ttOfDiQm6ABGs6-axKjdzDQ/view?usp=drive_link). The formatted datasets are hosted on [Google Drive](https://drive.google.com/file/d/13E2ykpbAD0qt81m6ZrDE5sSwF7UAmwEX/view?usp=drive_link)).
 
 ## Reference 
 ```bibtex
